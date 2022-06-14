@@ -10,7 +10,7 @@ Welcome to MBI-TEST-DOCK-to-LC's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   Contents/db_chat_list.md
 
 Indices and tables
 ==================
