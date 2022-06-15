@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'MBI-TEST-DOCK-to-LC'
+project = 'lc-docs-test'
 copyright = '2022, lc'
 author = 'lc'
 
 # The full version, including alpha/beta/rc tags
-release = 'latest'
+release = '0.0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -33,12 +33,6 @@ release = 'latest'
 extensions = [
     'myst_parser'
 ]
-
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.txt': 'markdown',
-    '.md': 'markdown',
-}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
