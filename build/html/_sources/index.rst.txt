@@ -8,9 +8,9 @@ Welcome to MBI-TEST-DOCK-to-LC's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: ../docs:
+   :caption: /docs:
 
-   ../docs/db_chat_list.md
+   /docs/db_chat_list.md
 
 Indices and tables
 ==================
